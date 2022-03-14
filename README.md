@@ -1,16 +1,26 @@
 # Chatbot
 
 
-Chatbot schritte für Fitnessstudios
-1.Json data aufbauen 
-1.1 information sammeln
-1.2 eine Funktion aufbauen
-bis 15.03 16:00 Uhr
-2.weiter entwickeln 
-2.1 eine weitere Funtion aufbauen mit nltk
-2.2 BMI berechene und ausgaben
-bis 16.03 Mittwoch 16:00 Uhr
-3.ein kleine funktioniert Chatbot zeigen
-bis 17.03 Donnerstag 16:00 Uhr 
+### Schritte zur Erstellung eines Chatbots für Fitnessstudios
+#### 1.  Dialogform sammeln und Speicher-Code in einer Json-Datei
 
+- generieren passender Antworten
+- eine Funktion aufbauen, die den User-Input einliest.
+- den Code definieren, so dass der Chatbot einfacher mit dem User kommunizieren kann.
+- bis 15.03. 16:00 Uhr
+
+#### 2.weiterentwickeln 
  
+-  BMI-Berechnung und Ausgabe programmieren
+  - Informationen sammeln, was zur BMI-Berechung notwendig ist, wie Gewicht und Größe 
+  - while-Schleife aufbauen, und zwei Funktionen verbinden
+- bis 16.03 Mittwoch 16:00 Uhr
+
+#### 3.ein kleine funktioniert Chatbot zeigen
+
+- test des Chatbot
+- korrigieren
+- versuchen ein GUI aufbauen.
+- bis 17.03 Donnerstag 16:00 Uhr 
+
+
