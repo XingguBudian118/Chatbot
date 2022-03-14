@@ -56,7 +56,6 @@ def bmi():
 
 
 
-        #print('dein BMI Ergebnisse ist:'+ str(BMI))
         print('dein BMI ist: '+str(BMI))
         print()
 
