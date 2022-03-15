@@ -4,10 +4,10 @@
 ### Schritte zur Erstellung eines Chatbots für Fitnessstudios
 #### 1.  Dialogform sammeln und Speicher
 
-- generieren passender Antworten
+- generieren passender Antworten in Dialogform
 - eine Funktion aufbauen, die den User-Input einliest.
-- den Code definieren, so dass der Chatbot einfacher mit dem User kommunizieren kann.
-- bis 15.03. 16:00 Uhr
+- den Code verbessern, so dass der Chatbot einfacher mit dem User kommunizieren kann.
+- bis 15.03. 15:00 Uhr
 
 #### 2.weiterentwickeln 
  
