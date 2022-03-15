@@ -2,7 +2,7 @@
 
 
 ### Schritte zur Erstellung eines Chatbots für Fitnessstudios
-#### 1.  Dialogform sammeln und Speicher-Code in einer Json-Datei
+#### 1.  Dialogform sammeln und Speicher
 
 - generieren passender Antworten
 - eine Funktion aufbauen, die den User-Input einliest.
