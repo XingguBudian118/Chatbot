@@ -1,26 +1,31 @@
-# Chatbot
+# Retrieval Chatbot Projekt
 
 
-### Schritte zur Erstellung eines Chatbots für Fitnessstudios
-#### 1.  Dialogform sammeln und Speicher
+### Einleitung und Ziel
+#### 1. Entwicklung eines Retrieval-based Chatbot für ein Fitnessstudio
+#### 2. Das Ziel 
 
-- generieren passender Antworten in Dialogform
-- eine Funktion aufbauen, die den User-Input einliest.
-- den Code verbessern, so dass der Chatbot einfacher mit dem User kommunizieren kann.
-- bis 15.03. 15:00 Uhr
+- Website-Besucher/innen begrüßen, ihnen eine BMI-Rechnung anbieten.
+- Ihre Informationen wie Größe und Gewicht erfassen und ihren BMI berechnen und ausgeben. 
 
-#### 2.weiterentwickeln 
- 
--  BMI-Berechnung und Ausgabe programmieren
-  - Informationen sammeln, was zur BMI-Berechung notwendig ist, wie Gewicht und Größe 
-  - while-Schleife aufbauen, und zwei Funktionen verbinden
-- bis 16.03 Mittwoch 16:00 Uhr
+### Entwicklungsphasen
+#### 1. 	Konzeption
+#### 2. 	Vorbereitung von Fragen und Antworten
+#### 3. 	Programmierung und Funktionsaufbau
+#### 4. 	Testing und Dokumentation 
 
-#### 3.ein kleine funktioniert Chatbot zeigen
+### Phasen des Projekts
+#### 1.  Häufig gestellte Fragen als ein Dictionary aufbauen. Dabei handelt es sich um Fragen, die eine Mehrheit von Usern bezüglich eines   Produktes bzw., einer Dienstleistung stellen.
+#### 2.  Für diese Fragen stehen bereits vorbereitete Antworten zur Verfügung.
+#### 3. Aufbau der Funktion, so dass der User auf einfache Art und Weise mit dem Chat Bot kommunizieren kann.
+#### 4. Aufbau der zweiten Funktion, die zur Kategorisierung der BMI-Ergebnisse mit der unterlegten Berechnung sowie den entsprechenden Antworten führt.
+#### 5. Erstellung der loop Funktion und Dialog-Schleife zum Abschluss (Verabschiedung) und Überleitung zurück zur ersten Funktion
 
-- test des Chatbot
-- korrigieren
-- versuchen ein GUI aufbauen.
-- bis 17.03 Donnerstag 16:00 Uhr 
+### Ressourcen
+
+#### 1.	Python Als Programmiersprache, inklusive zwei Modular aus Python Bibliothek: Expression(re) und Random.
+#### 2. Berechnungsformeln (zum BMI) sowie ein Glossar zu verwenden Antwort
+
+
 
 
